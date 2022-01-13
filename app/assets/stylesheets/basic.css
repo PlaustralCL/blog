@@ -21,3 +21,11 @@ p,ul,ol {
   color: #1d1d1d;
   font-family: sans-serif;
 }
+
+textarea {
+  margin-right: 0;
+  width: 50%;
+  height: 10em;
+  box-sizing: border-box;
+  resize: vertical;
+}
