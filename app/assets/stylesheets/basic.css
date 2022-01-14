@@ -12,12 +12,12 @@ html {
  }
 
 h1,h2,h3,h4,h5,h6 {
-  margin: 3em 0 1em;
-   font-family: 'Merriweather', serif;
+  /* margin: 3em 0 1em; */
+  font-family: 'Merriweather', serif;
 }
 
 p,ul,ol {
-  margin-bottom: 2em;
+  /* margin-bottom: 2em; */
   color: #1d1d1d;
   font-family: sans-serif;
 }
